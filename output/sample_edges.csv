@@ -1,0 +1,6 @@
+ID,Source,Target,Type,Label,Weight
+0,24_oras_tawag,24_oras_pulis,Undirected,,1
+1,24_oras_pulis,24_oras_ecq,Undirected,,1
+2,24_oras_ecq,24_oras_jail,Undirected,,1
+3,24_oras_jail,24_oras_terrorism,Undirected,,1
+4,tv_patrol_upon,tv_patrol_time,Undirected,,1

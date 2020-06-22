@@ -1,0 +1,8 @@
+Modularity Class,Show,Color Name,Color Value,Community Name,Possible Community Names,Distinct Words
+0,24 Oras,Black,#333333,happy,['happy'],1
+1,24 Oras,Black,#333333,sad,['sad'],1
+2,24 Oras,Navy,#000080,Pulis,"['pulis', 'ecq', 'tawag']",3
+3,24 Oras,Black,#333333,jail,"['jail', 'terrorism']",2
+4,TV Patrol,Silver,#c0c0c0,Oras,"['upon', 'time']",2
+5,TV Patrol,Black,#333333,endorsement,['endorsement'],1
+6,TV Patrol,Black,#333333,end,['end'],1
